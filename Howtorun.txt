@@ -1,7 +1,17 @@
-1st - open app.py
+🚀 How to Run the Project
 
-2nd - press Run Python File in Dedicated Terminal
+1️⃣ Open app.py in VS Code (or your code editor)
 
-3rd - *in terminal ---> cd "C:\Users\User\Documents\My Projects\Image Classification Project in Python" HIT ENTER
-                        dir HIT ENTER
-                        streamlit run app.py HIT ENTER
+2️⃣ Open terminal in the project folder
+
+3️⃣ Run this command:
+
+cd "Image Classification Project in Python"
+
+4️⃣ Start the app:
+
+streamlit run app.py
+
+5️⃣ Click the link shown in the terminal (usually):
+
+http://localhost:8501
