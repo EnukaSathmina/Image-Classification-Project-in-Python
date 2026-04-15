@@ -21,7 +21,6 @@ The project allows users to upload images and get real-time predictions using a 
 - OpenCV  
 
 ---
----
 
 ## ⚙️ Installation & Run
 
