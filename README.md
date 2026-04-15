@@ -45,3 +45,8 @@ cd Image-Classification-Project-in-Python
 ```bash
 streamlit run app.py
 ```
+---
+
+<p align="center">
+ 👨‍💻 Made by <b>Enuka Sathmina</b>
+</p>
