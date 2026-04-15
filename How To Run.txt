@@ -1,0 +1,7 @@
+🚀 How to Run the Project
+
+1️⃣ Navigate to the project folder Image-Classification-Project-in-Python
+
+2️⃣ Open CMD/Terminal in that folder
+
+3️⃣ Run the command: streamlit run app.py
