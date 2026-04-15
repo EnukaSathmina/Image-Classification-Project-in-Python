@@ -1,0 +1,7 @@
+1st - open app.py
+
+2nd - press Run Python File in Dedicated Terminal
+
+3rd - *in terminal ---> cd "C:\Users\User\Documents\My Projects\Image Classification Project in Python" HIT ENTER
+                        dir HIT ENTER
+                        streamlit run app.py HIT ENTER
