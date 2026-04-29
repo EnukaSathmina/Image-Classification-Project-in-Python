@@ -14,9 +14,9 @@ The project allows users to upload images and get real-time predictions using a 
 ---
 
 ## 🛠️ Tech Stack
-- Python 🐍  
-- Streamlit 🎈  
-- TensorFlow / PyTorch (depending on your model)  
+- Python
+- Streamlit
+- TensorFlow  
 - NumPy  
 - OpenCV  
 
